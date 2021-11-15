@@ -2,7 +2,7 @@
 - 👀 I’m interested in Interface Design!
 - 🌱 I’m currently learning Front-end Development
 - 📫 How to reach me info@maryakveo.com
-- 🐤 Also consider following me on Twitter for free design resources and tips (https://twitter.com/akveo_inc)[click here!] 
+- 🐤 Also consider following me on Twitter for free design resources and tips [click here!](https://twitter.com/akveo_inc)
 
 
 <!---
